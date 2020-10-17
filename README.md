@@ -1,4 +1,4 @@
-# Jarkom_Modul1_Lapres_C14
+# Lapres Modul1 Kelompok C14
 
 ## A. Display Filter
 ## 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
