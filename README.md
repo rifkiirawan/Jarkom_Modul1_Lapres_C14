@@ -12,7 +12,7 @@
 ## 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 ### Menggunakan Display filter : http contains "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/2.png?raw=true)
-### Meggunakan Export object
+### Menggunakan Export object
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/2b.png?raw=true)
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/2c.png?raw=true)
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/2d.png?raw=true)
@@ -54,9 +54,9 @@
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/7e.png?raw=true)
 
 ## 8. Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
-### Mencari ip address Microsoft FTP Service Menggunakan Display Filter : ftp contains "Microsoft FTP Service
+### Mencari ip address Microsoft FTP Service Menggunakan Display Filter : ftp contains "Microsoft FTP Service"
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/8.png?raw=true)
-### Menggunakan Display filter : ftp.request.command == RETR && ip.dst == 198.246.117.106
+### Mencari (RETR) Menggunakan Display filter : ftp.request.command == RETR && ip.dst == 198.246.117.106
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/8b.png?raw=true)
 
 ## 9. Cari username dan password ketika login FTP pada localhost!
