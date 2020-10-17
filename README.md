@@ -1,6 +1,6 @@
 # Jarkom_Modul1_Lapres_C14
 
-# A. Display Filter
+## A. Display Filter
 ## 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 ### Menggunakan Display filter : http.host == "testing.mekanis.me"
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/1.png?raw=true)
@@ -50,6 +50,7 @@
 ### Menggunakan Display filter : ftp.request.command == "USER" || ftp.request.command == "PASS"
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/9.png?raw=true)
 
+## B. Capture Filter
 ## 10. Cari file .pdf di wireshark lalu download dan buka file tersebut! clue: "25 50 44 46" 
 ### Dapat diselesaikan dengan cara : ctrl+f -> hex value -> 25 50 44 46 -> follow -> tcp stream -> ubah jadi raw -> selesai
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/10.png?raw=true)
@@ -80,3 +81,7 @@
 ## 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
 ### Menggunakan Capture filter : dst host 103.94.190.11
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/15.png?raw=true)
+
+# Kendala selama pengerjaan :
+### - Masih kurang dalam filter-filter yang dapat digunakan
+### - Kurang mengerti cara mengerjakan sesuai dengan permintaan soal
