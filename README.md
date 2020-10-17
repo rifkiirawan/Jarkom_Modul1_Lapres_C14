@@ -91,7 +91,6 @@
 ### Mendapatkan alamat IP kami dari CMD
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/14.png?raw=true)
 ### Menggunakan Capture filter : Src host 192.168.42.252 (Alamat IP)
-![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/14b.png?raw=true)
 ![alt text](https://github.com/rifkiirawan/Jarkom_Modul1_Lapres_C14/blob/main/img/14c.png?raw=true)
 
 ## 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
